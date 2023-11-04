@@ -1,0 +1,13 @@
+.nav-section{
+    width: 100%;
+}
+.main-section{
+    width: 100%;
+}
+
+.main-container{
+    height: calc(100vh - 174px);
+}
+.main-flex-container{
+    padding: 10px 0 0;
+}
